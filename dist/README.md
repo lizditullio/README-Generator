@@ -1,7 +1,7 @@
 
   # title
   
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
   ## Description
   description
@@ -22,13 +22,13 @@
 
  ## License 
     
-    This application is covered by the Apache license.
+    This application is covered by the ISC license.
 
   ## Contributers 
- contributors
+ liz ditullio
 
   ## Tests
-  test instructions
+  instructions
   ## Questions
  issues
   

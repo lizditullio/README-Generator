@@ -45,7 +45,6 @@ function generateMarkdown(answers) {
   renderLicenseBadge(license);
   renderLicenseLink(license);
   renderLicenseSection(license);
-  console.log("hello from the other sideeeeee")
   return `
   # ${answers.title}
   
