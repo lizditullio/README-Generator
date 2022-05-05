@@ -23,9 +23,7 @@ Requires inquirer
 
   ## Questions
   
- Find me on GitHub: [lizditullio]
-
- (https://github.com/lizditullio)
+ Find me on GitHub: [lizditullio](https://github.com/lizditullio)
  
   Email me with any questions: ehditullio@gmail.com
 
