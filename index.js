@@ -79,7 +79,7 @@ function init() {
    inquirer.prompt(questions)
    .then(function(answers){
        console.log("we have received your answers")
-       writeToFile("./README.md", generateMarkdown(answers))
+       writeToFile("./dist/README.md", generateMarkdown(answers))
    })
 }
 
