@@ -18,7 +18,7 @@ Requires inquirer
  Liz DiTullio
 
  # Usage 
- (./src/tutorialgif.gif)
+src\tutorialgif.gif
 
   ## Questions
   
