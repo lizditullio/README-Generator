@@ -3,7 +3,7 @@
 
   ## Description
 A node based application to generate a profession README.md from the command line. 
-[WalkThrpough](./src/tutorialgif.gif)
+[WalkThrough] (./src/tutorialgif.gif)
 
   ## Table of Contents
   - [Description](#description)
