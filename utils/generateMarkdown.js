@@ -77,9 +77,7 @@ function generateMarkdown(answers) {
   ## Questions
  ${answers.questions}
   
- Find me on GitHub: [${answers.username}]
-
- (https://github.com/${answers.username})
+ Find me on GitHub: [${answers.username}](https://github.com/${answers.username})
  
   Email me with any questions: ${answers.email}
 `;
