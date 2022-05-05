@@ -1,6 +1,8 @@
 
   # title
   
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
   ## Description
   description
   ## Table of Contents
@@ -18,12 +20,12 @@
   ## Usage
    usage
 
-  ## License
-  
-  This application is covered by the Apache license. 
+ ## License 
+    
+    This application is covered by the Apache license.
 
   ## Contributers 
- contributor
+ contributors
 
   ## Tests
   test instructions
