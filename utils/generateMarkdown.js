@@ -49,9 +49,6 @@ function generateMarkdown(answers) {
   # ${answers.title}
   
   ${renderLicenseBadge(license)}
-
-  ## Description
-  ${answers.description}
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -60,6 +57,9 @@ function generateMarkdown(answers) {
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
+  
+  ## Description
+  ${answers.description}
 
   ## Installation
   ${answers.installation}
