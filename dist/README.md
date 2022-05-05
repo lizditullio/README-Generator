@@ -1,8 +1,8 @@
 
-  # liz
+  # title
   
   ## Description
-  liz
+  description
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -13,25 +13,25 @@
   - [Questions](#questions)
 
   ## Installation
-  liz
+  installation
 
   ## Usage
-   liz
+   usage
 
   ## License
   
-  This application is covered by the GNU license. 
+  This application is covered by the Apache license. 
 
   ## Contributers 
- liz
+ contributor
 
   ## Tests
-  liz
+  test instructions
   ## Questions
- liz
+ issues
   
- Find me on GitHub: [liz]
+ Find me on GitHub: [username]
 
- (https://github.com/liz)
+ (https://github.com/username)
  
-  Email me with any questions: liz
+  Email me with any questions: email
